@@ -1,0 +1,9 @@
+Setting up password on TeamViewer
+
+How to setup and save a personal password on TeamViewer:
+
+Click on Extras > Options > Security
+Then enter a password of your choice and then confirm the password. Then click on ok at the bottom. 
+The computer you are setting up the personal password on, the password you are saving, that is the password that will be needed to access the computer when trying to access remotely. 
+
+Once the password is setup restart the machine which you have set the password on, and then try accessing the computer from anther computer to see if the password work. 
